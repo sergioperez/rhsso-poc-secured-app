@@ -1,0 +1,13 @@
+= SSO Demo app
+
+== Usage 
+
+Set your keycloak.json file
+
+Execute the express app with `npm start`
+
+Query the secured endpoint with `curl http://localhost:8000/my_endpoint`
+
+```
+Note: Check the connect.sh and get_access_token.sh scripts
+```

@@ -1,0 +1,10 @@
+{
+  "realm": "MyApps",
+  "auth-server-url": "http://sso.lan:8080/auth/",
+  "ssl-required": "external",
+  "resource": "myDemoApp",
+  "credentials": {
+    "secret": "1a1a1aaa-11a1-111a-111a-a1a111a1a111"
+  },
+  "confidential-port": 0
+}
